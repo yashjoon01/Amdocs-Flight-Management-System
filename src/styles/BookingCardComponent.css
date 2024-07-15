@@ -1,0 +1,13 @@
+.cancel-button{
+  margin-left: 30px;
+  border: none;
+  background-color: #212529;
+  border-radius: 500px;
+  height: 35px;
+}
+
+.card-title-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
