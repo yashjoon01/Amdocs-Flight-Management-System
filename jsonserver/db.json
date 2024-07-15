@@ -1,0 +1,304 @@
+{
+  "flights": [
+    {
+      "flight_id": "F001",
+      "airline": "American Airlines",
+      "source": "New York",
+      "destination": "Los Angeles",
+      "departure_time": "2024-05-01T09:00:00Z",
+      "arrival_time": "2024-05-01T12:00:00Z",
+      "id": "cee25669-13bd-4d50-d688-09d10da15e92",
+      "seats": 100
+    },
+    {
+      "flight_id": "F002",
+      "airline": "Delta Air Lines",
+      "source": "Chicago",
+      "destination": "Miami",
+      "departure_time": "2024-08-02T13:00:00Z",
+      "arrival_time": "2024-08-02T16:00:00Z",
+      "id": "38ecc7c2-a546-4c3c-c71d-32cd81a0921c",
+      "seats": 13
+    },
+    {
+      "flight_id": "F003",
+      "airline": "United Airlines",
+      "source": "San Francisco",
+      "destination": "Seattle",
+      "departure_time": "2024-08-03T07:00:00Z",
+      "arrival_time": "2024-08-03T09:00:00Z",
+      "id": "b165adb9-76b5-4ee5-86e2-a8940a0af660",
+      "seats": 0
+    },
+    {
+      "flight_id": "F004",
+      "airline": "Southwest Airlines",
+      "source": "Houston",
+      "destination": "Denver",
+      "departure_time": "2024-08-04T12:00:00Z",
+      "arrival_time": "2024-08-04T14:00:00Z",
+      "id": "4c89e48e-9254-4d98-8b6a-49978819d69b",
+      "seats": 90
+    },
+    {
+      "flight_id": "F005",
+      "airline": "British Airways",
+      "source": "Atlanta",
+      "destination": "Dallas",
+      "departure_time": "2024-08-05T15:00:00Z",
+      "arrival_time": "2024-08-05T17:00:00Z",
+      "id": "6b19169a-79f8-461a-c2e8-9e0cf7626932",
+      "seats": 19
+    },
+    {
+      "flight_id": "F006",
+      "airline": "Lufthansa",
+      "source": "Boston",
+      "destination": "Philadelphia",
+      "departure_time": "2024-08-06T10:00:00Z",
+      "arrival_time": "2024-08-06T11:00:00Z",
+      "id": "bbc0b394-2748-4086-bd62-92778e73199b",
+      "seats": 0
+    },
+    {
+      "flight_id": "F007",
+      "airline": "Emirates",
+      "source": "Las Vegas",
+      "destination": "Phoenix",
+      "departure_time": "2023-08-07T08:00:00Z",
+      "arrival_time": "2023-08-07T09:00:00Z",
+      "id": "87e752b6-03aa-4359-d636-d79f45cdc843",
+      "seats": 5
+    },
+    {
+      "flight_id": "F008",
+      "airline": "Qatar Airways",
+      "source": "Washington D.C.",
+      "destination": "Orlando",
+      "departure_time": "2024-08-08T11:00:00Z",
+      "arrival_time": "2024-08-08T14:00:00Z",
+      "id": "816743f0-cc8e-4a38-db3b-be5b13d7adec",
+      "seats": 8
+    },
+    {
+      "flight_id": "F009",
+      "airline": "Singapore Airlines",
+      "source": "Detroit",
+      "destination": "Minneapolis",
+      "departure_time": "2024-08-09T16:00:00Z",
+      "arrival_time": "2024-08-09T17:30:00Z",
+      "id": "c8d284f1-daf4-4ff6-afde-a611e13c35c6",
+      "seats": 10
+    },
+    {
+      "flight_id": "F010",
+      "airline": "Cathay Pacific",
+      "source": "Charlotte",
+      "destination": "Nashville",
+      "departure_time": "2024-08-10T14:00:00Z",
+      "arrival_time": "2024-08-10T15:30:00Z",
+      "id": "59cfd452-235d-4fe5-f1a3-a3fa9ce46358",
+      "seats": 11
+    },
+    {
+      "flight_id": "F011",
+      "airline": "New Airline",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "departure_time": "2025-01-22T01:00",
+      "arrival_time": "2025-01-22T03:00",
+      "seats": 0,
+      "id": "b891ffa9-65a1-4a83-d333-1864317fa154"
+    }
+  ],
+  "passengers": [
+    {
+      "passenger_id": "P001",
+      "name": "Alice Johnson",
+      "age": 28,
+      "gender": "Female",
+      "passport_number": "X1234567",
+      "id": "adc1bd3a-909a-452f-a5a0-9cb6609cecfa"
+    },
+    {
+      "passenger_id": "P002",
+      "name": "Bob Smith",
+      "age": 35,
+      "gender": "Male",
+      "passport_number": "Y7654321",
+      "id": "bde2cf4b-98a1-4898-b4c5-dcb8756dcd48"
+    },
+    {
+      "passenger_id": "P003",
+      "name": "Charlie Davis",
+      "age": 42,
+      "gender": "Male",
+      "passport_number": "Z2345678",
+      "id": "cfe3af5c-87a2-491a-c6b6-eab9876eaf39"
+    },
+    {
+      "passenger_id": "P004",
+      "name": "Diana Evans",
+      "age": 30,
+      "gender": "Female",
+      "passport_number": "A8765432",
+      "id": "dfe4bf6d-76b3-492b-d7c7-fbc9987fbf50"
+    },
+    {
+      "passenger_id": "P005",
+      "name": "Ethan Wilson",
+      "age": 27,
+      "gender": "Male",
+      "passport_number": "B3456789",
+      "id": "efe5cf7e-65c4-4a3c-e8d8-gcd1098gcf61"
+    },
+    {
+      "passenger_id": "P006",
+      "name": "Fiona Hall",
+      "age": 33,
+      "gender": "Female",
+      "passport_number": "C4567890",
+      "id": "ffe6df8f-54d5-5b4d-f9e9-hde2109hdg72"
+    },
+    {
+      "passenger_id": "P007",
+      "name": "George Lewis",
+      "age": 39,
+      "gender": "Male",
+      "passport_number": "D5678901",
+      "id": "gge7ef9g-43e6-6c5e-ga0a-iee3210ieh83"
+    },
+    {
+      "passenger_id": "P008",
+      "name": "Hannah Martin",
+      "age": 29,
+      "gender": "Female",
+      "passport_number": "E6789012",
+      "id": "hhe8gfah-32f7-7d6f-hb1b-jff4321jfi94"
+    },
+    {
+      "passenger_id": "P009",
+      "name": "Ian Brown",
+      "age": 36,
+      "gender": "Male",
+      "passport_number": "F7890123",
+      "id": "iif9hgbj-21g8-8e7g-ic2c-kgg5432kgj05"
+    },
+    {
+      "passenger_id": "P010",
+      "name": "Jane Taylor",
+      "age": 31,
+      "gender": "Female",
+      "passport_number": "G8901234",
+      "id": "jje0ihck-10h9-9f8h-jd3d-lhh6543lhk16"
+    },
+    {
+      "passenger_id": "P011",
+      "name": "Rohit Kumar",
+      "age": "22",
+      "gender": "Male",
+      "passport_number": "G8902901",
+      "id": "fb89bf9b-b135-447c-9071-33767a7c14e7"
+    }
+  ],
+  "bookings": [
+    {
+      "booking_id": "B001",
+      "flight_id": "F001",
+      "passenger_id": "P001",
+      "booking_date": "2024-07-10T12:00:00Z",
+      "status": "confirmed",
+      "id": "1a2b3c4d-5e6f-7890-1234-567890abcdef"
+    },
+    {
+      "booking_id": "B002",
+      "flight_id": "F002",
+      "passenger_id": "P002",
+      "booking_date": "2024-07-11T14:30:00Z",
+      "status": "waiting",
+      "id": "abcdef12-3456-7890-abcd-ef1234567890"
+    },
+    {
+      "booking_id": "B003",
+      "flight_id": "F003",
+      "passenger_id": "P003",
+      "booking_date": "2024-07-12T10:45:00Z",
+      "status": "confirmed",
+      "id": "23456789-0abc-def1-2345-67890abcdef1"
+    },
+    {
+      "booking_id": "B004",
+      "flight_id": "F001",
+      "passenger_id": "P004",
+      "booking_date": "2024-07-13T08:15:00Z",
+      "status": "cancelled",
+      "id": "34567890-bcde-f123-4567-890abcdef123"
+    },
+    {
+      "booking_id": "B005",
+      "flight_id": "F002",
+      "passenger_id": "P001",
+      "booking_date": "2024-07-14T16:00:00Z",
+      "status": "waiting",
+      "id": "456789ab-cdef-1234-5678-90abcdef234"
+    },
+    {
+      "booking_id": "B006",
+      "flight_id": "F003",
+      "passenger_id": "P002",
+      "booking_date": "2024-07-15T11:20:00Z",
+      "status": "confirmed",
+      "id": "567890ab-cdef-2345-6789-0abcdef345"
+    },
+    {
+      "booking_id": "B007",
+      "flight_id": "F001",
+      "passenger_id": "P003",
+      "booking_date": "2024-07-16T13:45:00Z",
+      "status": "waiting",
+      "id": "67890abc-def1-3456-7890-abcdef4567"
+    },
+    {
+      "booking_id": "B008",
+      "flight_id": "F002",
+      "passenger_id": "P004",
+      "booking_date": "2024-07-17T09:30:00Z",
+      "status": "confirmed",
+      "id": "7890abcd-ef12-4567-890a-bcdef56789a"
+    },
+    {
+      "booking_id": "B009",
+      "flight_id": "F003",
+      "passenger_id": "P001",
+      "booking_date": "2024-07-18T15:05:00Z",
+      "status": "waiting",
+      "id": "890abcde-f123-5678-90ab-cdef67890ab"
+    },
+    {
+      "booking_id": "B010",
+      "flight_id": "F001",
+      "passenger_id": "P002",
+      "booking_date": "2024-07-19T07:55:00Z",
+      "status": "cancelled",
+      "id": "90abcdef-1234-6789-0abc-def7890abc"
+    },
+    {
+      "booking_id": "B011",
+      "flight_id": "F011",
+      "passenger_id": "P011",
+      "booking_date": "2024-07-14T15:55:33.108Z",
+      "status": "waiting",
+      "id": "e4234539-66ea-4037-cf62-aeb010008a9f"
+    },
+    {
+      "booking_id": "B020",
+      "flight_id": "F005",
+      "passenger_id": "P008",
+      "booking_date": "2024-07-15T04:58:51.796Z",
+      "status": "waiting",
+      "id": "b07af42c-63fd-4cf2-ffe7-81c7a33b3a9c"
+    }
+  ],
+  "favicon.ico": [],
+  "ws": []
+}
